@@ -11,3 +11,6 @@ A curated list of awesome dev-related stuff
 <a href="https://itch.io/">Itch.io</a> An open marketplace for independent video games<br>
 <a href="https://www.piskelapp.com/">Piskel</a> A free online editor for animated sprites & pixel art
 </ul>
+
+<h3>CSS Stuff</h3>
+<a href="http://ianlunn.github.io/Hover/">CTA effects onhover</a>
