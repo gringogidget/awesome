@@ -10,7 +10,9 @@ A curated list of awesome dev-related stuff
 <a href="http://phaser.io/">Phaser</a> An open source framework for Canvas and WebGL powerd browser games<br>
 <a href="https://itch.io/">Itch.io</a> An open marketplace for independent video games<br>
 <a href="https://www.piskelapp.com/">Piskel</a> A free online editor for animated sprites & pixel art
+  
 </ul>
 
 <h3>CSS Stuff</h3>
-<a href="http://ianlunn.github.io/Hover/">CTA effects onhover</a>
+<a href="http://ianlunn.github.io/Hover/">CTA effects onhover</a><br>
+<a href="http://pasquale.cool">Pasquale</a> Rad web based projects for inspiration
