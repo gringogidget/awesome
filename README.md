@@ -8,6 +8,7 @@ A curated list of awesome dev-related stuff
 <ul>
 <a href="https://tic.computer/">Tiny Computer</a> TIC-80 is a fantasy computer for making, playing and sharing tiny games.<br>
 <a href="http://phaser.io/">Phaser</a> An open source framework for Canvas and WebGL powerd browser games<br>
+<a href="https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser">Phaser tutorial</a> By Mozilla<br>
 <a href="https://itch.io/">Itch.io</a> An open marketplace for independent video games<br>
 <a href="https://www.piskelapp.com/">Piskel</a> A free online editor for animated sprites & pixel art
 
