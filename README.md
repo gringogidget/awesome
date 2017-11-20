@@ -11,20 +11,27 @@ A curated list of awesome dev-related stuff
 <a href="https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser">Phaser tutorial</a> By Mozilla<br>
 <a href="https://itch.io/">Itch.io</a> An open marketplace for independent video games<br>
 <a href="https://www.piskelapp.com/">Piskel</a> A free online editor for animated sprites & pixel art
-
+</ul
+  
 <h3>CSS</h3>
+<ul>
 <a href="http://ianlunn.github.io/Hover/"> CTA effects onhover</a><br>
+</ul>
 
 <h3>Chrome Plugins / iOS apps</h3>
+<ul>
 <a href="https://github.com/vdsabev/image-downloader"> Image downloader plugin</a> Download every image on a page<br>
 <a href="https://getkap.co/">Kap</a> Capture your screen
+</ul>
 
 <h3>Regex / Text Editor / Keyboard Stuff</h3>
+<ul>
 <a href="https://regex101.com/r/bY1x0M/1">Regex 101</a> Test Regex stuff<br>
 <a href="http://sweetme.at/2014/03/10/atom-editor-cheat-sheet/">Atom Keyboard Shortcuts</a><br>
 <a href="http://tryregex.com/">Try Regex</a> An interactive learning tool by<a href="https://github.com/callumacrae">Callummacrae</a>
+</ul>
 
 <h3>Inspiration</h3>
+<ul>
 <a href="http://pasquale.cool">Pasquale</a> Web art and animation
-
 </ul>
