@@ -31,6 +31,19 @@ A curated list of awesome dev-related stuff
 <a href="http://tryregex.com/">Try Regex</a> An interactive learning tool by<a href="https://github.com/callumacrae">Callummacrae</a>
 </ul>
 
+<h3>Fonts</h3>
+<ul>
+<a href="http://www.getthefont.com/">Get The Font</a> Find the font on Github<br>
+<a href="https://www.typewolf.com/">Type Wolf</a> Font pairings<br>
+<a href="https://fontsinuse.com/">Fonts in use</a> Find cool fonts
+</ul>
+  
+<h3>Colours</h3>
+<ul>
+<a href="https://coolors.co/">Coolors</a> Random colour scheme generator<br>
+<a href="https://color.adobe.com/explore/?filter=most-used&time=month"> Adobe Color</a>Adobe color themes</br>
+</ul>
+
 <h3>Inspiration</h3>
 <ul>
 <a href="http://pasquale.cool">Pasquale</a> Web art and animation
