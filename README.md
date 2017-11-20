@@ -15,12 +15,14 @@ A curated list of awesome dev-related stuff
 <h3>CSS</h3>
 <a href="http://ianlunn.github.io/Hover/"> CTA effects onhover</a><br>
 
-<h3>Chrome Plugins</h3>
+<h3>Chrome Plugins / iOS apps</h3>
 <a href="https://github.com/vdsabev/image-downloader"> Image downloader plugin</a> Download every image on a page<br>
+<a href="https://getkap.co/">Kap</a> Capture your screen
 
 <h3>Regex / Text Editor / Keyboard Stuff</h3>
 <a href="https://regex101.com/r/bY1x0M/1">Regex 101</a> Test Regex stuff<br>
-<a href="http://sweetme.at/2014/03/10/atom-editor-cheat-sheet/">Atom Keyboard Shortcuts</a>
+<a href="http://sweetme.at/2014/03/10/atom-editor-cheat-sheet/">Atom Keyboard Shortcuts</a><br>
+<a href="http://tryregex.com/">Try Regex</a> An interactive learning tool by<a href="https://github.com/callumacrae">Callummacrae</a>
 
 <h3>Inspiration</h3>
 <a href="http://pasquale.cool">Pasquale</a> Web art and animation
