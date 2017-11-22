@@ -28,7 +28,8 @@ A curated list of awesome dev-related stuff
 <ul>
 <a href="https://regex101.com/r/bY1x0M/1">Regex 101</a> Test Regex stuff<br>
 <a href="http://sweetme.at/2014/03/10/atom-editor-cheat-sheet/">Atom Keyboard Shortcuts</a><br>
-<a href="http://tryregex.com/">Try Regex</a> An interactive learning tool by<a href="https://github.com/callumacrae">Callummacrae</a>
+<a href="http://tryregex.com/">Try Regex</a> An interactive learning tool by<a href="https://github.com/callumacrae">Callummacrae</a><br>
+<a href="https://regexr.com/">Regexr</a> RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 </ul>
 
 <h3>Fonts</h3>
